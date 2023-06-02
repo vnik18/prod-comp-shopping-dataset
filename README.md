@@ -6,7 +6,7 @@ An essential part of making a purchase decision when shopping is to compare and 
 There are only a couple of datasets available for product comparison research in the academic literature, derived largely from customer reviews. They cover limited domains, are small in size, and often do not contain direct mentions of products, attributes or direct comparisons between products. To evaluate our proposed approach HCPC in this paper, we create a new dataset of about 15K human generated sentences, which compare related products based on one or more of their attributes (the first such data we know of for product comparison). 
 
 
-Product Comparison dataset details
+## Product Comparison dataset details
 
 * Our Product Comparison dataset [2] contains 14719 records. The data consists of the following information about approximately 8K products: 
     * The anonymized names of 1-3 products from amazon.com (e.g., “product 1”, “product 2”)
@@ -21,6 +21,18 @@ Product Comparison dataset details
     * 2) Based on their reviews, customers prefer Product 3's absorbency rating to that of Product 2. 
 
 
-References
+## References
 
 [1] Nikhita Vedula, Marcus Collins, Eugene Agichtein and Oleg Rokhlenko. "Generating Explainable Product Comparisons for Online Shopping." In Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining, 2023.
+
+Please use the below code to cite our work if you found this dataset useful:
+
+```
+@inproceedings{vedula2023generating,
+  title={Generating explainable product comparisons for online shopping},
+  author={Vedula, Nikhita and Collins, Marcus and Agichtein, Eugene and Rokhlenko, Oleg},
+  booktitle={Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining},
+  pages={949--957},
+  year={2023}
+}
+```
