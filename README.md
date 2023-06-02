@@ -22,4 +22,5 @@ Product Comparison dataset details
 
 
 References
+
 [1] Nikhita Vedula, Marcus Collins, Eugene Agichtein and Oleg Rokhlenko. "Generating Explainable Product Comparisons for Online Shopping." In Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining, 2023.
